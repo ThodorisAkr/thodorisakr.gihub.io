@@ -1,2 +1,2 @@
-# thodorisakr.gihub.io
+# thodorisakr.github.io
 Tools for Web Development
